@@ -5,7 +5,9 @@ East Java, Indonesia
 -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=6E44FF&center=true&vCenter=true&width=600&lines=Designing+interfaces+that+breathe;Building+with+React+%26+precision;Blending+art+and+logic" alt="Typing SVG" />
+  <a href="https://github.com/azleon">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=6E44FF&center=true&vCenter=true&width=600&lines=Designing+interfaces+that+breathe;Building+with+React+%26+precision;Blending+art+and+logic" alt="Typing SVG" />
+  </a>
 </p>
 
 <p align="center">
@@ -48,38 +50,23 @@ they respond, breathe, and guide — without noise.
   <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,js,react,html,css,vite&perline=8" />
 </p>
 
-*(Hover to reveal labels — light, fast, and SVG-powered)*
+*(Hover over icons to see labels — powered by [skillicons.dev](https://skillicons.dev))*
 
 ---
 
-## 📊 GitHub Activity & Stats
+## 📊 GitHub Activity (Animated & Lightweight)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=azleon&show_icons=true&theme=radical&border_radius=12&hide_border=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azleon&layout=compact&theme=radical&border_radius=12&hide_border=true&langs_count=6" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=azleon&show_icons=true&theme=radical&border_radius=12&hide_border=true&bg_color=00000000" 
+       alt="azleon's GitHub stats" 
+       style="max-width:100%;" 
+       height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azleon&layout=compact&theme=radical&border_radius=12&hide_border=true&bg_color=00000000&langs_count=6" 
+       alt="Top Langs" 
+       height="180" />
 </p>
 
-> Live stats, zero JS — just clean, animated SVG.
-
----
-
-## 🌊 Recent Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=azleon&theme=react-dark&hide_border=true&area=true&radius=8" width="800" />
-</p>
-
-*A flowing wave of my recent contributions — visualized with care.*
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=azleon&theme=radical&column=6&margin-w=10&margin-h=10" />
-</p>
-
-> Mini milestones. Big motivation.
+> ✨ Stats update in real-time. No heavy scripts — just clean SVG.
 
 ---
 
